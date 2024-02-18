@@ -1,5 +1,4 @@
-# www
-The Story
+# The Story
 
 ## License
 
