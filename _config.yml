@@ -41,9 +41,9 @@ author:
 menu:
   - title:             Example
     url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
+  - title:             Story
+    url:               https://story.save-the-nick.org
+  - title:             Archiv
     url:               /about/
 
 # Add links to the footer.
