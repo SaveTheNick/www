@@ -1,5 +1,7 @@
+remote_theme: hydecorp/hydejack
+
 lang:                  en
-title:                 Hydejack
+title:                 Save The Nick
 copyright:             © 2021. All rights reserved.
 
 accent_image:          /assets/img/sidebar-bg.jpg
@@ -72,3 +74,7 @@ compress_html:
 
 sass:
   style:               compressed
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
