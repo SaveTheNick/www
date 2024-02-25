@@ -44,9 +44,7 @@ menu:
   - title:             Story
     url:               https://story.save-the-nick.org
   - title:             Archiv
-    url:               /about/
-  - title:             Anleitung
-    url:               /anleitung/
+    url:               /archiv/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
