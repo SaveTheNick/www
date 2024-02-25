@@ -1,3 +1,4 @@
 ---
 layout: default
+cover: true
 ---
