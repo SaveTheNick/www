@@ -49,10 +49,9 @@ cookies_banner:
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Seite existiert leider nicht'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.<br/>
-    <!--home_link--> to try finding it again.
+    Diese URL ist nicht auffindbar oder sie verweist auf etwas, das nicht mehr existiert.
   home_link:           Head back home
 
 offline:
