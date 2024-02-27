@@ -8,13 +8,13 @@
     }
   }
 
-  .btn, .gumroad-button  {
+  .btn, .gumroad-button {
     margin: 1rem 0;
   }
 }
 
-a.external::after, a[href*="://"]:not(.no-mark-external):not(.no-mark)::after, a.no-push-state:not(.no-mark-external):not(.no-mark)::after {
-  color: white;
+.sidebar a::after {
+  color: white!important;
 }
 
 br {
