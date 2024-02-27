@@ -13,7 +13,33 @@
   }
 }
 
+a.external::after, a[href*="://"]:not(.no-mark-external):not(.no-mark)::after, a.no-push-state:not(.no-mark-external):not(.no-mark)::after {
+  color: white;
+}
+
+br {
+  display: block;
+  content: "";
+  border-bottom: 10px solid transparent;
+}
+
+ul {
+  margin-bottom: 0;
+}
+
+.fine {
+  color: white;
+}
+
 .home-message-special {
   font-size: 1.25rem;
   font-weight: 700;
+}
+
+.icon-github {
+  color: white;
+}
+
+.sidebar-social>ul>li>a {
+  height: 3.5rem;
 }
